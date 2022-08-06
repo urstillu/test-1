@@ -26,3 +26,5 @@ for i in range(5):
 ```
 
 4. 링크 주소는 [여기](www.google.com, '구글'), 혹은 <www.google.com>
+
+5. ![zoom배경](./image/photo-1510851896000-498520af2236.jpeg)
